@@ -1,4 +1,5 @@
 # BattlestringIdFinder
-Check for added string in the string csv of batllefrontII and return their ID
+Checks for added strings in a strings CSV for STAR WARS Battlefront II
+Returns their ID and their hash
 
 This app is in alpha state. atm it can just give you the hash of the string ID
